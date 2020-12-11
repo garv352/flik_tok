@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127569884329",
+    "firebase_url": "https://fliktok-4f5f5.firebaseio.com",
+    "project_id": "fliktok-4f5f5",
+    "storage_bucket": "fliktok-4f5f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127569884329:android:0c42b15cc3b1bc69ee65b8",
+        "android_client_info": {
+          "package_name": "com.example.fliktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127569884329-87uck7brpgfahhrad2vr8qts39rd218t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxhdnRfoI_xacpVk9g63VRdf_mD5UTtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127569884329-87uck7brpgfahhrad2vr8qts39rd218t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
